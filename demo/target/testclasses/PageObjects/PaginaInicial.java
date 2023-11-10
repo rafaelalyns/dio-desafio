@@ -1,4 +1,4 @@
-package demo.target.testclasses.PageObjects;
+package target.testclasses.PageObjects;
 
 public class PaginaInicial {
 

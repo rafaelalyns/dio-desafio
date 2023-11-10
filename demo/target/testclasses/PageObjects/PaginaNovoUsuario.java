@@ -1,3 +1,4 @@
+package target.testclasses.PageObjects;
 
 public class PaginaNovoUsuario {
 
