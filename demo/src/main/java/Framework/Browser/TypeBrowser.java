@@ -1,3 +1,4 @@
+package demo.src.main.java.Framework.Browser;
 
 public enum TypeBrowser {
     CHROME,

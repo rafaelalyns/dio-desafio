@@ -1,4 +1,4 @@
-package Framework.Browser;
+package demo.src.main.java.Framework.Browser;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
